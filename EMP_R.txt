@@ -1,0 +1,7 @@
+
+**********  Full Table  **********
+eid       ename               eage      eaddress                      salary    deptno    
+
+101       Kiran               43        HYD                           23000     10        
+103       Mohan               31        CHE                           21000     20        
+104       John                53        HYD                           50000     10        
